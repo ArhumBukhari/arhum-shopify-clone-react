@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ProductCard from "./components/ProductCard";
-
+// practice makes perfect
 function App() {
   let num1 = 8
   const num2 = num1
